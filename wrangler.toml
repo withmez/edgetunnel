@@ -1,3 +1,5 @@
+# wrangler.toml
+name = 'queen'
 name = "v20250723"
 main = "_worker.js"
 compatibility_date = "2025-07-23"
